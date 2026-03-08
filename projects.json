@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0",
+    "title": "Wolfie",
+    "description":
+      "Дискорд приложение для рендеринга скинов Minecraft с использованием nmsr-rs",
+    "image": "https://spoverlay.ru/backgrounds/wolfie-bg.jpg",
+    "url": "https://discord.com/oauth2/authorize?client_id=1350859573501628536"
+  },
+
+  {
+    "id": "1",
+    "title": "Lottory Corp. Bot",
+    "description": "Бот созданный для города СПМ Lottory Corp.",
+    "image": "https://cdn.discordapp.com/icons/1333029528804790312/b672a2c2e440e696b0fba237283b8c53.webp"
+  },
+  {
+    "id": "2",
+    "title": "Magic Warps",
+    "description": "Плагин для Minecraft на варпы",
+    "image": "https://asset.furries.tech/Furries.tech_full.png"
+  },
+  {
+    "id": "3",
+    "title": "Скоро...",
+    "image": "https://asset.furries.tech/Furries.tech_full.png"
+   }
+]
